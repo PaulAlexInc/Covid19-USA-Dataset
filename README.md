@@ -1,4 +1,5 @@
 # EDA on Covid-19 USA dataset [NYTimes](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv)  
+***
 
 An EDA on on Covid 19 USA dataset using Pyspark in Databricks to understand the pandemic situation in the USA.<br>
 Datasets used:
